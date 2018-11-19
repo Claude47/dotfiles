@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-GITHUB_USERNAME="rossmacarthur"
+GITHUB_USERNAME="Claude47"
 GITHUB_REPOSITORY="dotfiles"
 GIT_BRANCH="master"
 DOTFILES_TARBALL_URL="https://github.com/$GITHUB_USERNAME/$GITHUB_REPOSITORY/tarball/$GIT_BRANCH"
