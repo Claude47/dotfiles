@@ -3,7 +3,6 @@
 import sys
 from ctypes import cdll, c_uint
 
-
 def set_capslock(bool):
     X11 = cdll.LoadLibrary("libX11.so.6")
     display = X11.XOpenDisplay(None)
